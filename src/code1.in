@@ -1,0 +1,3 @@
+Ld F2 0(R1)
+Mult.d F4 F3 F20
+Ld F6 0(R2)
